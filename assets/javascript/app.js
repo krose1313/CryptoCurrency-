@@ -1,0 +1,1 @@
+var letters = ["a", "b", "c", "d"];
